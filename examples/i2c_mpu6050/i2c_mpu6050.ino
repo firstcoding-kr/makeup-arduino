@@ -19,12 +19,13 @@ void get6050() {
 
 void setup()
 {
+  /*
   Wire.begin();
   Wire.beginTransmission(0x68);
   Wire.write(0x6B);
   Wire.write(0); // MPU6050 을 동작 대기 모드로 변경
   Wire.endTransmission(true);
-  
+  */
   Serial.begin(9600);
 }
 
@@ -48,5 +49,5 @@ void loop()
   Serial.print(" tmp:");
   Serial.print(tmp);
   Serial.println();
-  delay(1000);
+  delay(100);
 }
