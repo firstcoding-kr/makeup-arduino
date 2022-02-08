@@ -6,4 +6,4 @@
  - [03-Basic 아두이노 기초3 (analog, for)](https://firstcoding-kr.github.io/makeup-arduino/ppt/MakeUp_Arduino_03_analog_for.pdf)
  - [04-Basic 아두이노 기초4 (millis)](https://firstcoding-kr.github.io/makeup-arduino/ppt/MakeUp_Arduino_04_millis_lcd.pdf)
  - [05-Basic 아두이노 기초5 (serial, operator)](https://firstcoding-kr.github.io/makeup-arduino/ppt/MakeUp_Arduino_05_serial_operator.pdf)
- - [05-Basic 아두이노 기초6 (analog 기본 실습 모음)](https://firstcoding-kr.github.io/makeup-arduino/ppt/MakeUp_Arduino_06.pdf)
+ - [06-Basic 아두이노 기초6 (analog 기본 실습 모음)](https://firstcoding-kr.github.io/makeup-arduino/ppt/MakeUp_Arduino_06.pdf)
