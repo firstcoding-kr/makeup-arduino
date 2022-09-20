@@ -14,3 +14,7 @@
 ## 참고자료
  - [LCD 출력 모양 만들기](https://mikeyancey.com/hamcalc/lcd_characters.php)
  
+### esp8266 모듈 보드매니저 추가
+```
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+```
